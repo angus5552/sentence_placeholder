@@ -4,8 +4,7 @@
 
 
 이 페이지에서는 파일의 구조와 역할에 대해 설명하는 문서 입니다.
-사용법을 알고 싶으시다면 <span style="color:orange">  
-./quickstart.ipynb</span>를 참조 부탁드립니다.
+사용법을 알고 싶으시다면 <span style="color:orange">  ./quickstart.ipynb</span>를 참조 부탁드립니다.
 
 
 ## Repo structure
